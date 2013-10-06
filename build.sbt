@@ -23,4 +23,4 @@ requireJs += "main.js"
 
 // The main config file
 // See http://requirejs.org/docs/optimization.html#mainConfigFile
-requireJsShim := "build.js"
+requireJsShim += "main.js"
