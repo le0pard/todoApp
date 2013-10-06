@@ -13,7 +13,7 @@
     paths: {
       // Map the dependencies to CDNs or WebJars directly
       "_" : "//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.1/underscore-min",
-      // Use javascrips as a fallback
+      // Use webjars javascrips as a fallback
       "jquery": ["//code.jquery.com/jquery-2.0.3.min", "/webjars/jquery/2.0.3/jquery.min"],
     }
   });
