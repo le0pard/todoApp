@@ -21,6 +21,4 @@ play.Project.playScalaSettings
 // This tells Play to optimize this file and its dependencies
 requireJs += "main.js"
 
-// The main config file
-// See http://requirejs.org/docs/optimization.html#mainConfigFile
 requireJsShim += "main.js"
